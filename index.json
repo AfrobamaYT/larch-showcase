@@ -354,6 +354,22 @@
    "recorded": "2026-10-02"
   },
   {
+   "name": "cyberarch",
+   "title": "",
+   "author": "ARCANGEL0",
+   "source": "https://github.com/ARCANGEL0/CyberArch-Dotfiles",
+   "commit": "0c3bab00c5921308feefbd6393bd164d738ddcea",
+   "film": "cyberarch.mp4",
+   "film_bytes": 1153476,
+   "film_sha256": "dc10d2c42e8f42f807dfedc7ec23de42b85d3c3d5687554a0440f0f828ebdf2e",
+   "duration_s": 13.3,
+   "fps": 60,
+   "poster": "cyberarch.webp",
+   "poster_bytes": 9756,
+   "poster_sha256": "6bb29a93df876b9e3d7ace3ad7257b5ac7f9656eab1f59fc506658434f30cc62",
+   "recorded": "2026-10-02"
+  },
+  {
    "name": "darkside",
    "title": "[Hyprland] DarkSide🖤",
    "author": "_Skilledcamman",
