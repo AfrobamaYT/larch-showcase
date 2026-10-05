@@ -8,9 +8,11 @@ rice manager shows them so you can see what a rice does before you switch to it.
 - Each rice was fetched from its author's repository at a reviewed commit and applied in a
   disposable virtual machine running Larch, then driven with the rice's own key bindings.
 - Every wallpaper, lock-screen picture, avatar and similar picture of the rice was replaced by
-  Larch's own wallpaper, recoloured to the rice's palette. What you see is the rice's own
+  an AI-generated wallpaper, made with ChatGPT for this showcase and chosen to match the rice's
+  palette; each film ends on a switch to a second one. What you see is the rice's own
   interface: its bars, launchers, menus, terminals and animations.
-- 60 frames per second, 1280×800, H.264, mostly 10 to 25 seconds, no sound.
+- 60 frames per second, 1920×1080, H.264, mostly 10 to 25 seconds, no sound. The track in the
+  media widgets is "Washed Up" by HoliznaCC0 (CC0 1.0).
 
 ## Files
 
